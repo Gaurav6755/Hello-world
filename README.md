@@ -1,5 +1,4 @@
-# Hello-world
-Good morning!!! 
+# Hello-world 
 #Python program for addition
 
 a=int(input("enter the 1st no.") 
